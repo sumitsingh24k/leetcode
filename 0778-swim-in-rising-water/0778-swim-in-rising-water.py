@@ -1,18 +1,19 @@
 class Solution:
     def swimInWater(self, grid: List[List[int]]) -> int:
-        visited=set()
+        row,col=len(grid),len(grid[0])
+        direction=[(0,1),(0,-1),(1,0),(-1,0)]
         heap = [(grid[0][0], 0, 0)]
-        len_row,len_col=len(grid),len(grid[0])
-        directions=[(0,1),(1,0),(-1,0),(0,-1)]
+        visited=set()
+        visited.add((0,0))
+        depth=0
         while heap:
-            val,row,col=heapq.heappop(heap)
-            if row == len_row - 1 and col == len_col - 1:
-                return val
-            for dr,dc in directions:
-                nr,nc=dr+row,dc+col
-                if 0<=nr<len_row and 0<=nc<len_col:
-                    if (nr,nc) not in visited:
-                        visited.add((nr,nc))
-                        max_val=max(val,grid[nr][nc])
-                        heapq.heappush(heap,(max_val,nr,nc))
-        return -1 
+            curr_level,r,c=heapq.heappop(heap)
+            if curr_level > depth:
+                depth=curr_level
+            if r==row-1 and c==col-1:
+                return depth
+            for dr,dc in direction:
+                nr,nc=dr+r,dc+c
+                if 0<=nr<row and 0<=nc<col and (nr,nc) not in visited:
+                    visited.add((nr,nc))
+                    heapq.heappush(heap,(grid[nr][nc],nr,nc))
