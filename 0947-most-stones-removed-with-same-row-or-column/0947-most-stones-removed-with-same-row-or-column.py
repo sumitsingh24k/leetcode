@@ -1,34 +1,28 @@
 class Solution:
-    def removeStones(self, stones: List[List[int]]) -> int:
-        max_row = max(x for x, y in stones)
-        max_col=max(y for x,y in stones)
-        edges=[]
-        size = max_row + max_col + 2   
-        for (x, y) in stones:
-            edges.append([x, y + max_row + 1])
-        parent = [i for i in range(size)]
-        rank=[0]*size
-        def find(x):
-            if parent[x]!=x:
-                 parent[x] = find(parent[x])
-            return parent[x]
-        def union(x,y):
-            root_x=find(x)
-            root_y=find(y)
-            if root_x==root_y:
-                return 
-            if rank[root_x]>rank[root_y]:
-                parent[root_y]=root_x
-            elif rank[root_x]<rank[root_y]:
-                parent[root_x]=root_y
-            else:
-                parent[root_y]=root_x
-                rank[root_x]+=1
-        for x,y in edges:
-            union(x,y)
-        seen = set()
-        for x, y in edges:
-            seen.add(find(x))
-            seen.add(find(y))
-            components = len(seen)
-        return len(stones) - components
+    def removeStones(self, stones):
+        n = len(stones)
+        parent = list(range(n))
+        rank = [1] * n
+        def find(i):
+            if parent[i] != i:
+                parent[i] = find(parent[i])
+            return parent[i]
+        def union(i, j):
+            root_i = find(i)
+            root_j = find(j)
+            if root_i != root_j:
+                if rank[root_i] > rank[root_j]:
+                    parent[root_j] = root_i
+                elif rank[root_i] < rank[root_j]:
+                    parent[root_i] = root_j
+                else:
+                    parent[root_j] = root_i
+        for i in range(n):
+            for j in range(i + 1, n):
+                if stones[i][0] == stones[j][0] or stones[i][1] == stones[j][1]:
+                    union(i, j)
+        groups = 0
+        for i in range(n):
+            if find(i) == i:
+                groups += 1
+        return n - groups
