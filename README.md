@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumitsingh24k/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sumitsingh24k/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
