@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sumitsingh24k/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/sumitsingh24k/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumitsingh24k/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sumitsingh24k/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sumitsingh24k/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sumitsingh24k/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
