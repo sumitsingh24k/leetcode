@@ -8,13 +8,13 @@ class Solution:
     def leafSimilar(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
         arr1=[]
         arr2=[]
-        def check(root,result):
+        def helper(root,result):
             if not root:
                 return 
-            if not root.left and not root.right:
+            if root.left is None and root.right is None:
                 result.append(root.val)
-            check(root.left,result)
-            check(root.right,result)
-        check(root1,arr1)
-        check(root2,arr2)
+            helper(root.left,result)
+            helper(root.right,result)
+        helper(root1,arr1)
+        helper(root2,arr2)
         return arr1==arr2
