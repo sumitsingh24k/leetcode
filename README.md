@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumitsingh24k/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0872-leaf-similar-trees](https://github.com/sumitsingh24k/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumitsingh24k/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0993-cousins-in-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sumitsingh24k/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/sumitsingh24k/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumitsingh24k/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sumitsingh24k/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/sumitsingh24k/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/sumitsingh24k/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
