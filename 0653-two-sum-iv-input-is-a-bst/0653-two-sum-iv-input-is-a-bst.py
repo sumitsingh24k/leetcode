@@ -6,15 +6,13 @@
 #         self.right = right
 class Solution:
     def findTarget(self, root: Optional[TreeNode], k: int) -> bool:
-        dictionary={}
+        seen=set()
         def check(root):
             if root is None:
                 return False
-            if root.val in dictionary:
+            if root.val in seen:
                 return True
-            remain=k-root.val
-            dictionary[remain]=root.val
+            val=k-root.val
+            seen.add(val)
             return check(root.left) or check(root.right)
         return check(root)
-
-
