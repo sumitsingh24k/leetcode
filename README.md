@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumitsingh24k/leetcode/tree/master/0042-trapping-rain-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumitsingh24k/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumitsingh24k/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumitsingh24k/leetcode/tree/master/0042-trapping-rain-water) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumitsingh24k/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumitsingh24k/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -275,10 +278,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumitsingh24k/leetcode/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sumitsingh24k/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/sumitsingh24k/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitsingh24k/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
