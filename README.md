@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/sumitsingh24k/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/sumitsingh24k/leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/sumitsingh24k/leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/sumitsingh24k/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/sumitsingh24k/leetcode/tree/master/0257-binary-tree-paths) |
+| [0402-remove-k-digits](https://github.com/sumitsingh24k/leetcode/tree/master/0402-remove-k-digits) |
 | [0572-subtree-of-another-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumitsingh24k/leetcode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/sumitsingh24k/leetcode/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/sumitsingh24k/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/sumitsingh24k/leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/sumitsingh24k/leetcode/tree/master/0621-task-scheduler) |
 ## Simulation
 |  |
