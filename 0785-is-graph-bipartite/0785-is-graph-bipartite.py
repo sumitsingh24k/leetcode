@@ -11,7 +11,7 @@ class Solution:
                     node=queue.popleft()
                     for neighbour in graph[node]:
                         if visited[neighbour]==-1:
-                            visited[neighbour]=1+visited[node]
+                            visited[neighbour]=1-visited[node]
                             queue.append(neighbour)
                         elif visited[neighbour]==visited[node]:
                             return False 
