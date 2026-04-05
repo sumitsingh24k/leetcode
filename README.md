@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumitsingh24k/leetcode/tree/master/0042-trapping-rain-water) |
+| [0542-01-matrix](https://github.com/sumitsingh24k/leetcode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumitsingh24k/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/sumitsingh24k/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sumitsingh24k/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/sumitsingh24k/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/sumitsingh24k/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sumitsingh24k/leetcode/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/sumitsingh24k/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sumitsingh24k/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitsingh24k/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumitsingh24k/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sumitsingh24k/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0542-01-matrix](https://github.com/sumitsingh24k/leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/sumitsingh24k/leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/sumitsingh24k/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sumitsingh24k/leetcode/tree/master/0735-asteroid-collision) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/sumitsingh24k/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sumitsingh24k/leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/sumitsingh24k/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/sumitsingh24k/leetcode/tree/master/0994-rotting-oranges) |
