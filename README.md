@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/sumitsingh24k/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sumitsingh24k/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/sumitsingh24k/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sumitsingh24k/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sumitsingh24k/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sumitsingh24k/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/sumitsingh24k/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sumitsingh24k/leetcode/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/sumitsingh24k/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sumitsingh24k/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/sumitsingh24k/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sumitsingh24k/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Shortest Path
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sumitsingh24k/leetcode/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sumitsingh24k/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumitsingh24k/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1631-path-with-minimum-effort](https://github.com/sumitsingh24k/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sumitsingh24k/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Binary Search
 |  |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sumitsingh24k/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0778-swim-in-rising-water](https://github.com/sumitsingh24k/leetcode/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/sumitsingh24k/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/sumitsingh24k/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sumitsingh24k/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/sumitsingh24k/leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sumitsingh24k/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/sumitsingh24k/leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -160,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/sumitsingh24k/leetcode/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/sumitsingh24k/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sumitsingh24k/leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/sumitsingh24k/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sumitsingh24k/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Hash Table
 |  |
