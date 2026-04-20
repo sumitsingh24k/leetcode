@@ -1,28 +1,42 @@
 class Solution:
-    def removeStones(self, stones):
-        n = len(stones)
-        parent = list(range(n))
-        rank = [1] * n
-        def find(i):
-            if parent[i] != i:
-                parent[i] = find(parent[i])
-            return parent[i]
-        def union(i, j):
-            root_i = find(i)
-            root_j = find(j)
-            if root_i != root_j:
-                if rank[root_i] > rank[root_j]:
-                    parent[root_j] = root_i
-                elif rank[root_i] < rank[root_j]:
-                    parent[root_i] = root_j
-                else:
-                    parent[root_j] = root_i
-        for i in range(n):
-            for j in range(i + 1, n):
-                if stones[i][0] == stones[j][0] or stones[i][1] == stones[j][1]:
-                    union(i, j)
-        groups = 0
-        for i in range(n):
-            if find(i) == i:
-                groups += 1
-        return n - groups
+    def removeStones(self, stones: List[List[int]]) -> int:
+        parent = {}
+        size = {}
+        def find(x):
+            if parent[x] != x:
+                parent[x] = find(parent[x])
+            return parent[x]
+        def union(x, y):
+            px, py = find(x), find(y)
+            if px == py:
+                return
+            if size[px] < size[py]:
+                parent[px] = py
+                size[py] += size[px]
+            else:
+                parent[py] = px
+                size[px] += size[py]
+
+        nodes = set()
+
+        for r, c in stones:
+            row = r
+            col = c + 10001   # shift columns
+
+            if row not in parent:
+                parent[row] = row
+                size[row] = 1
+            if col not in parent:
+                parent[col] = col
+                size[col] = 1
+
+            union(row, col)
+
+            nodes.add(row)
+            nodes.add(col)
+
+        components = 0
+        for node in nodes:
+            if find(node) == node:
+                components += 1
+        return len(stones) - components
