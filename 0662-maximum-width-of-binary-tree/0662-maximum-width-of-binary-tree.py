@@ -6,19 +6,17 @@
 #         self.right = right
 class Solution:
     def widthOfBinaryTree(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return 0
         max_width=0
-        queue = deque([(0, root)]) 
+        queue=deque([(0,root)])
         while queue:
-            curr_len=len(queue)
-            first_index=queue[0][0]
-            second_index=queue[-1][0]
-            max_width = max(max_width, second_index - first_index + 1)
-            for i in range(curr_len):
+            len_queue=len(queue)
+            curr=[]
+            for i in range(len_queue):
                 index,node=queue.popleft()
+                curr.append(index)
                 if node.left:
-                    queue.append((2 * index, node.left))
+                    queue.append((2*index+1,node.left))
                 if node.right:
-                    queue.append((2 * index + 1, node.right))
+                    queue.append((2*index+2,node.right))
+            max_width=max(max_width,abs(curr[0]-curr[-1])+1)
         return max_width
