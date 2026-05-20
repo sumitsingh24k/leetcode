@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sumitsingh24k/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1631-path-with-minimum-effort](https://github.com/sumitsingh24k/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sumitsingh24k/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sumitsingh24k/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sumitsingh24k/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sumitsingh24k/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sumitsingh24k/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sumitsingh24k/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Database
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sumitsingh24k/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sumitsingh24k/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
