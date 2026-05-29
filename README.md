@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/sumitsingh24k/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sumitsingh24k/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sumitsingh24k/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sumitsingh24k/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/sumitsingh24k/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sumitsingh24k/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sumitsingh24k/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
