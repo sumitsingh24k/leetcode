@@ -1,5 +1,8 @@
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
-        for i in range(k):
-            val=nums.pop()
-            nums.insert(0,val)
+        n = len(nums)
+        k %= n
+
+        nums.reverse()
+        nums[:k] = reversed(nums[:k])
+        nums[k:] = reversed(nums[k:])
