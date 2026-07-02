@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sumitsingh24k/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/sumitsingh24k/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/sumitsingh24k/leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/sumitsingh24k/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sumitsingh24k/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sumitsingh24k/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sumitsingh24k/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sumitsingh24k/leetcode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/sumitsingh24k/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sumitsingh24k/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sumitsingh24k/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/sumitsingh24k/leetcode/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sumitsingh24k/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sumitsingh24k/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sumitsingh24k/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
